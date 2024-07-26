@@ -1,2 +1,2 @@
 # drf-kata
-Learning Django and Django Rest Framework through katas
+Learn Django Rest Framework and Django through katas
